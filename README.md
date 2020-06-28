@@ -1,3 +1,3 @@
-# khanMedia
+# k-chat
 
-Social network for developers# k-chat
+Messenger app
