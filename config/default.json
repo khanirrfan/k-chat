@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://khanMedia:khanMedia@khanmedia-2wfxg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "SecretToken"
+}

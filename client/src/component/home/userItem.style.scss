@@ -1,0 +1,25 @@
+.profile {
+    display: flex;
+    height:100%;
+    padding:1%;
+    width: 98%;
+    margin: 1%;
+    a {
+        text-decoration: none;
+        div{
+            margin: 4px 8px;
+            width: 100%;
+            min-width: 110px;
+            }
+    }
+}
+.round-img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: red;
+}
+.userName{
+    display: flex;
+   
+}
