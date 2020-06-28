@@ -4,7 +4,7 @@ import io from "socket.io-client";
 
 const Page = styled.div`
   display: flex;
-  height: 100vh;
+  height: 80vh;
   width: 100%;
   align-items: center;
   flex-direction: column;
